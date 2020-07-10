@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\bin\Debug\LineCrossTest.exe.config
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\bin\Debug\LineCrossTest.exe
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\bin\Debug\LineCrossTest.pdb
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\bin\Debug\Math.Spatial.dll
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.Form1.resources
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.exe
+C:\Users\Administrator\Desktop\Project\LineCrossTest\LineCrossTest\obj\Debug\LineCrossTest.pdb
